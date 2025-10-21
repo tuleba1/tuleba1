@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Túlio Pragana
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 <h2 align="left">About me</h2>
 
