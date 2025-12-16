@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Túlio Pragana
+# 🧑🏻‍💻 Túlio Pragana
 
 **`Desenvolvedor FullStack`**
 
